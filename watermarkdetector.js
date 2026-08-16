@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  Detects potential watermark overlay layers and lets you enable/disable them with a warning panel.
 // @author       crazybee
+// @license      Apache-2.0
 // @match        *://*/*
 // @run-at       document-idle
 // @grant        none

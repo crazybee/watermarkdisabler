@@ -40,6 +40,7 @@ When a watermark-like layer is detected, the script shows:
 
 The script includes a standard Tampermonkey header:
 
+- `@license Apache-2.0`
 - `@match *://*/*`
 - `@run-at document-idle`
 - `@grant none`
@@ -58,3 +59,7 @@ You can restrict `@match` to specific domains if needed.
 - Add auto-disable default state
 - Add repeated interval checking
 - Add notification style/theme options
+
+## License
+
+This project is licensed under the Apache License 2.0. See [LICENSE.md](LICENSE.md).
